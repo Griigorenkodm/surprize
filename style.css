@@ -1,0 +1,162 @@
+body{
+    background-image: url(images\ \(2\).jfif);
+    background-size: cover;
+   
+}
+
+h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: antiquewhite;
+}
+
+button{
+    display: grid;
+    text-decoration: none;
+    border-radius: 5%;
+    border: none;
+    padding: 0;
+    width: 100px;
+    background-color: rgb(255, 255, 161);
+    outline: none;
+    cursor: pointer;
+    box-shadow: 0 0 10px grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    align-items: center;
+
+    margin: 30px;
+
+    
+}
+
+.container{
+  display: grid;
+  align-items: center;
+  
+  justify-content: center;
+  
+  
+  
+}
+
+h2{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: white;
+}
+
+
+h3{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: white;
+}
+
+h4{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: white;
+}
+
+h5{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: white;
+}
+
+h6{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: white;
+}
+
+p{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 24px;
+ color: white;
+}
+
+.m1{
+    display: grid;
+  align-items: center;
+  
+  justify-content: center;
+  
+}
+
+.m2{
+    display: grid;
+  align-items: center;
+  
+  justify-content: center;
+  
+}
+
+.m3{
+    display: grid;
+  align-items: center;
+  width: 500px;
+  
+  justify-content: center;
+  
+}
+
+.m4{
+    display: grid;
+  align-items: center;
+  
+  justify-content: center;
+  
+}
+
+.m5{
+    display: grid;
+  align-items: center;
+  
+  justify-content: center;
+  
+}
+
+.m6{
+    display: grid;
+  align-items: center;
+  
+  justify-content: center;
+  
+}
+
+.m7{
+    display: grid;
+  align-items: center;
+  
+  justify-content: center;
+  
+}
+
+.m8{
+    display: grid;
+  align-items: center;
+  
+  justify-content: center;
+  
+}
+
+.long-div{
+display: grid;
+  align-items: center;
+  
+  justify-content: center;
+}
+
+.span1{
+display: grid;
+  align-items: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px ;
+  justify-content: center;
+
+}
+
